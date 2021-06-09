@@ -5,10 +5,18 @@ body {
   font-size: 125%;
 }
 
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #5F9EA0;
+    border-width: 5px;
+    width: 20%;
+}
+
 h1 {
-  font-size: 3.600rem;
-  margin-top: 0;
+  margin-top: 50px auto 0 auto;
   font-family: 'Pacifico', cursive;
+  font-size: 5.600rem;
   color: #FFD700;
 }
 
@@ -16,10 +24,12 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   color: #008B8B;
+  font-weight: normal;
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  color: #5F9EA0;
 }
 
 .top-container {
@@ -33,7 +43,14 @@ h3 {
 }
 
 .bottom-container {
-  
+  background-color: #008B8B;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
 }
 
 .pro {
@@ -50,4 +67,16 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.Computer {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.Film {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
 }
