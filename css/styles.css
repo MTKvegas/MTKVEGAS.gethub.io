@@ -9,11 +9,13 @@ h1 {
   font-size: 3.600rem;
   margin-top: 0;
   font-family: 'Pacifico', cursive;
+  color: #FFD700;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
+  color: #008B8B;
 }
 
 h3 {
