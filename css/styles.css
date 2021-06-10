@@ -70,13 +70,13 @@ h3 {
 }
 
 .Computer {
-  width: 25%;
+  width: 15%;
   float: left;
   padding-right: 30px;
 }
 
 .Film {
-  
+  width: 15%;
   float: right;
   padding-left: 30px;
 }
