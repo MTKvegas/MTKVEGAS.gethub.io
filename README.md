@@ -1,1 +1,1 @@
-# SweetLemonLyfe.gethub.io
+# SweetLemonLyfe.github.io
